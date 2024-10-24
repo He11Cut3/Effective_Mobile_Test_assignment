@@ -18,9 +18,9 @@
    - В зависимости от того, где вы сохранили проект, выполните команду, чтобы перейти в соответствующую папку. Например, если ваш проект `Test_App_TZ` находится на рабочем столе, выполните следующую команду:
 
    ```shell
-   cd C:\Users\Ваше_Имя_Пользователя\Desktop\Test_App_TZ
+   cd C:\Users\Ваше_Имя_Пользователя\Desktop\Effective_Mobile_Test_assignment-main
 
 3. **Для тестирования приложение - можно использовать следующую тестовую строку. Пример файла data - можете найти в папке test.**:
    ```shell
-   dotnet run -- _cityDistrict="Центральный" _firstDeliveryDateTime="2024-10-23 14:00:00" _deliveryLog="C:\app.log" _deliveryOrder="C:\orders.xlsx" _dataFile="C:\data.xlsx"
+   dotnet run -- _cityDistrict="Центральный" _firstDeliveryDateTime="2024-10-23 14:00:00" _deliveryLog="(путь)\app.log" _deliveryOrder="(путь)\orders.xlsx" _dataFile="(путь)\data.xlsx"
 
