@@ -184,6 +184,9 @@ namespace DeliveryService
                     worksheet.Cells[i + 2, 4].Style.Numberformat.Format = "yyyy-mm-dd hh:mm:ss";
                 }
 
+                worksheet.Cells[worksheet.Dimension.Address].AutoFitColumns();
+
+
                 package.SaveAs(new FileInfo(filePath));
                 logger.Info($"Результаты сохранены в {filePath}");
             }

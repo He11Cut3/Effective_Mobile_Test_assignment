@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Test_App_TZ\\Test_App_TZ.csproj": {}
+    "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\TZ\\Effective_Mobile_Test_assignment\\Test_App_TZ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Test_App_TZ\\Test_App_TZ.csproj": {
+    "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\TZ\\Effective_Mobile_Test_assignment\\Test_App_TZ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Test_App_TZ\\Test_App_TZ.csproj",
+        "projectUniqueName": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\TZ\\Effective_Mobile_Test_assignment\\Test_App_TZ.csproj",
         "projectName": "Test_App_TZ",
-        "projectPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Test_App_TZ\\Test_App_TZ.csproj",
+        "projectPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\TZ\\Effective_Mobile_Test_assignment\\Test_App_TZ.csproj",
         "packagesPath": "C:\\Users\\kek13\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Test_App_TZ\\obj\\",
+        "outputPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\TZ\\Effective_Mobile_Test_assignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kek13\\AppData\\Roaming\\NuGet\\NuGet.Config",

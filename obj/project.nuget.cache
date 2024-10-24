@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dt5hWBCp8d7X6mkRxzsezBzuXZQb3vXRuoi8hkrxO29MjGIKtT6zbQhOU31xYtN7Z5Wn6BsyxWWh++kMNXs/pw==",
+  "dgSpecHash": "0OP/MnCM7Q39wXpCgGudBA/ianS4bys3yN98cfmmi5XFvBG1DXuXRuNG5RsgXof6W1J8ZVvxMkeTPys1a4pxuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\Test_App_TZ\\Test_App_TZ.csproj",
+  "projectFilePath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\TZ\\Effective_Mobile_Test_assignment\\Test_App_TZ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kek13\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
     "C:\\Users\\kek13\\.nuget\\packages\\epplus\\7.4.1\\epplus.7.4.1.nupkg.sha512",
