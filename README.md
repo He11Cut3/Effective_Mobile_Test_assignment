@@ -20,7 +20,7 @@
    ```shell
    cd (путь)\Effective_Mobile_Test_assignment-main
 
-3. **Для тестирования приложение - можно использовать следующую тестовую строку. Пример файла data - можете найти в папке test.**:
+3. **Для тестирования приложение - можно использовать следующую тестовую строку. Пример файла data - можете найти в папке test**:
    ```shell
    dotnet run -- _cityDistrict="Центральный" _firstDeliveryDateTime="2024-10-23 14:00:00" _deliveryLog="(путь)\app.log" _deliveryOrder="(путь)\orders.xlsx" _dataFile="(путь)\data.xlsx"
 
